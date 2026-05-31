@@ -63,7 +63,7 @@ Configuration screenshots available in `/screenshots`
 
 This entire environment has been reproduced as Infrastructure as Code using Terraform. Every AWS resource — the VPC, KMS encryption, three-volume storage, IAM roles, CloudWatch monitoring, and EC2 instance — is defined in `.tf` files and deployable with a single command.
 
-**[View the Terraform implementation →](./TERRAFORM.md)**
+**[View the Terraform implementation →](.Terraform-Update)**
 
 ```bash
 terraform init
